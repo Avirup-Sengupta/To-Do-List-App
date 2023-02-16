@@ -1,0 +1,38 @@
+.first_h1 {
+  color: blue;
+  font-weight: 800;
+
+
+}
+
+input[type="text"] {
+  font-size: 21px;
+
+
+}
+
+input[type="button"] {
+  background-color: pink;
+  font-size: 18px;
+
+}
+
+body {
+  background-color: #ced1ae;
+}
+
+.welcome_bar {
+
+  background-color: #dbaca0;
+  font-size: 45px;
+  font-weight: bolder;
+  color: black;
+  margin: 0px;
+  text-align: center;
+  height: 55px;
+  padding: 23px;
+  
+
+
+
+}
